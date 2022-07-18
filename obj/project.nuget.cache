@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbjiLKvHEt3jGnAezO9E5NnMVUIbrO82HzlxrPR/5Y22qZUbh0G2JWOBMe5V0CO8RBl0/cSxpIsIGUUrVfaB9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Max\\Documents\\GitHub\\appare-verstigium\\AppareVerstigium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Max\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
+  "logs": []
+}
